@@ -1,0 +1,6 @@
+@CoureAPI_HostAddress = http://localhost:5084
+
+GET {{CoureAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
